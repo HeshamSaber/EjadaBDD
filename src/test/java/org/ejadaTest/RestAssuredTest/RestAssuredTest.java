@@ -1,4 +1,4 @@
-package org.ejadaTest.stepDefinitions;
+package org.ejadaTest.RestAssuredTest;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
