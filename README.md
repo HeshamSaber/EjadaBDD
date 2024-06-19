@@ -1,5 +1,5 @@
 # project 
-- [Ejada - BDD + RestAssured]
+- Ejada - [BDD + RestAssured]
 ## Prerequisites
 - Java 22
 - Maven
