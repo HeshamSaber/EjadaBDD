@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ejada Suite">
+    <test name="Cucumber Tests" parallel="false" thread-count="1">
+        <classes>
+            <class name="org.ejadaTest.runners.RunnerClass"/>
+        </classes>
+    </test>
+</suite>
